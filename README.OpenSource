@@ -1,0 +1,11 @@
+[
+  {
+    "Name": "try-lock",
+    "License": "Apache License V2.0, MIT",
+    "License File": "LICENSE-APACHE, LICENSE-MIT",
+    "Version Number": "0.2.4",
+    "Owner": "xuelei3@huawei.com",
+    "Upstream URL": "https://github.com/seanmonstar/try-lock",
+    "Description": "A lightweight atomic lock."
+  }
+]
